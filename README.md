@@ -3,3 +3,12 @@
 Primeiro microserviço desenvolvido que será igual meu primeiro CRUD, jamais esquecerei haha
 
 <hr/> 
+
+<h1>Tecnologias utilizadas</h1>
+<h2 style="color💙">ProductAPI</h2>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
