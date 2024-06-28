@@ -5,7 +5,7 @@ Primeiro microserviço desenvolvido que será igual meu primeiro CRUD, jamais es
 <hr/> 
 
 <h1>Tecnologias utilizadas</h1>
-<h2 style="color💙">ProductAPI</h2>
+<h2 style="color:blue;">ProductAPI</h2>
 <ul>
   <li></li>
   <li></li>
